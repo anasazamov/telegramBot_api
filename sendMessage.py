@@ -1,9 +1,12 @@
 import os
 import requests
+from getUpdates import TOKEN
 
-TOKEN = os.environ['TOKEN']
 
-def sendMessage(chat_id:str, text:str):
-    URL = f'https://api.telegram.org/bot{TOKEN}/sendMessage'
-    
-    
+URL = f'https://api.telegram.org/bot{TOKEN}/sendMessage'
+
+payload = {
+    "chat_id": 1258594598,
+    "text": "ok"
+}
+requests.get(url=URL, params=payload)

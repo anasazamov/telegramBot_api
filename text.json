@@ -1,0 +1,340 @@
+{
+    "ok": true,
+    "result": [
+        {
+            "update_id": 6662062,
+            "message": {
+                "message_id": 1,
+                "from": {
+                    "id": 1698951222,
+                    "is_bot": false,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1698951222,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "type": "private"
+                },
+                "date": 1678353934,
+                "text": "/start",
+                "entities": [
+                    {
+                        "offset": 0,
+                        "length": 6,
+                        "type": "bot_command"
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 6662063,
+            "message": {
+                "message_id": 2,
+                "from": {
+                    "id": 1698951222,
+                    "is_bot": false,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1698951222,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "type": "private"
+                },
+                "date": 1678354043,
+                "text": "dfnsdbksdjnksd"
+            }
+        },
+        {
+            "update_id": 6662064,
+            "message": {
+                "message_id": 4,
+                "from": {
+                    "id": 1698951222,
+                    "is_bot": false,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1698951222,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "type": "private"
+                },
+                "date": 1678355263,
+                "photo": [
+                    {
+                        "file_id": "AgACAgIAAxkBAAMEZAmrP_6cmGAaQlokdTvzoWE--6AAAq7HMRugrlFIOt7OlsfsG20BAAMCAANzAAMvBA",
+                        "file_unique_id": "AQADrscxG6CuUUh4",
+                        "file_size": 1618,
+                        "width": 90,
+                        "height": 60
+                    },
+                    {
+                        "file_id": "AgACAgIAAxkBAAMEZAmrP_6cmGAaQlokdTvzoWE--6AAAq7HMRugrlFIOt7OlsfsG20BAAMCAANtAAMvBA",
+                        "file_unique_id": "AQADrscxG6CuUUhy",
+                        "file_size": 25494,
+                        "width": 320,
+                        "height": 213
+                    },
+                    {
+                        "file_id": "AgACAgIAAxkBAAMEZAmrP_6cmGAaQlokdTvzoWE--6AAAq7HMRugrlFIOt7OlsfsG20BAAMCAAN4AAMvBA",
+                        "file_unique_id": "AQADrscxG6CuUUh9",
+                        "file_size": 120652,
+                        "width": 800,
+                        "height": 533
+                    },
+                    {
+                        "file_id": "AgACAgIAAxkBAAMEZAmrP_6cmGAaQlokdTvzoWE--6AAAq7HMRugrlFIOt7OlsfsG20BAAMCAAN5AAMvBA",
+                        "file_unique_id": "AQADrscxG6CuUUh-",
+                        "file_size": 231942,
+                        "width": 1200,
+                        "height": 800
+                    }
+                ]
+            }
+        },
+        {
+            "update_id": 6662065,
+            "message": {
+                "message_id": 5,
+                "from": {
+                    "id": 1698951222,
+                    "is_bot": false,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1698951222,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "type": "private"
+                },
+                "date": 1678355523,
+                "text": "jhbcsdhbc"
+            }
+        },
+        {
+            "update_id": 6662066,
+            "message": {
+                "message_id": 6,
+                "from": {
+                    "id": 1698951222,
+                    "is_bot": false,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1698951222,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "type": "private"
+                },
+                "date": 1678357401,
+                "text": "xcsdfcs"
+            }
+        },
+        {
+            "update_id": 6662067,
+            "message": {
+                "message_id": 7,
+                "from": {
+                    "id": 1698951222,
+                    "is_bot": false,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1698951222,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "type": "private"
+                },
+                "date": 1678357403,
+                "text": "asxas"
+            }
+        },
+        {
+            "update_id": 6662068,
+            "message": {
+                "message_id": 8,
+                "from": {
+                    "id": 1698951222,
+                    "is_bot": false,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1698951222,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "type": "private"
+                },
+                "date": 1678357405,
+                "text": "asxasx"
+            }
+        },
+        {
+            "update_id": 6662069,
+            "message": {
+                "message_id": 9,
+                "from": {
+                    "id": 1698951222,
+                    "is_bot": false,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1698951222,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "type": "private"
+                },
+                "date": 1678357407,
+                "text": "xasxas"
+            }
+        },
+        {
+            "update_id": 6662070,
+            "message": {
+                "message_id": 10,
+                "from": {
+                    "id": 1698951222,
+                    "is_bot": false,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1698951222,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "type": "private"
+                },
+                "date": 1678357457,
+                "text": "xsaxas"
+            }
+        },
+        {
+            "update_id": 6662071,
+            "message": {
+                "message_id": 11,
+                "from": {
+                    "id": 1698951222,
+                    "is_bot": false,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1698951222,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "type": "private"
+                },
+                "date": 1678357459,
+                "text": "xsax"
+            }
+        },
+        {
+            "update_id": 6662072,
+            "message": {
+                "message_id": 12,
+                "from": {
+                    "id": 1698951222,
+                    "is_bot": false,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1698951222,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "type": "private"
+                },
+                "date": 1678357460,
+                "text": "sdcsdc"
+            }
+        },
+        {
+            "update_id": 6662073,
+            "message": {
+                "message_id": 13,
+                "from": {
+                    "id": 1698951222,
+                    "is_bot": false,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1698951222,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "type": "private"
+                },
+                "date": 1678357689,
+                "text": "dfvfd"
+            }
+        },
+        {
+            "update_id": 6662074,
+            "message": {
+                "message_id": 14,
+                "from": {
+                    "id": 1698951222,
+                    "is_bot": false,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "language_code": "en"
+                },
+                "chat": {
+                    "id": 1698951222,
+                    "first_name": "Anasxon",
+                    "last_name": "A'zamov",
+                    "username": "U1_UXdesigner",
+                    "type": "private"
+                },
+                "date": 1678357863,
+                "text": "85"
+            }
+        }
+    ]
+}

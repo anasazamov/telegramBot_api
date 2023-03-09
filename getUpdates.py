@@ -1,7 +1,7 @@
 import requests
 import time
 
-TOKEN = '6097521187:AAHbPqQPSlFP54uT-Sj6MdnJpeBB_5Idsmg'
+TOKEN = '6058623152:AAGROkpnAa7tK6gXhGiE_F-DpMqqFuxK8ns'
 BASE_URL = f'https://api.telegram.org/bot{TOKEN}/getUpdates'
 
 update_id = -1
